@@ -1,24 +1,26 @@
-# TELOS — Iason Papadopoulos
+# MY TELOS
 
 ## DOCUMENT PURPOSE
 
-This document captures my personal context using the TELOS framework so that I — and AI — can better understand who I am, what I'm building towards, and how to improve. The conceptual chain is:
+This document captures the TELOS method of articulating my personal context so that they, and AI, can better understand them and help them improve. Pay attention to the items and the concepts here, and especially on how they work together.
 
-**Problems → Mission → Narratives → Goals → Challenges → Strategies → Projects → Journal**
+The conceptual path is Problems -> Mission -> (Narratives) -> Goals -> Challenges -> Strategies —> Projects -> Journal. This means that any project you're doing can be mapped all the way back up to the problem(s) you're trying to solve. This gives you transparency and explainability in everything you're doing so you don't end up busy for days/months/years without being able to remember why you're doing what you're doing.
 
-Every project I work on should trace back to the problem(s) I'm trying to solve. This prevents career anxiety by giving me transparency and explainability in everything I do.
+Other sections that aren't those core sections are additional context to support them.
 
 ## HISTORY
 
 - Born and raised in Athens, Greece
 - Completed undergraduate bachelor (8 semesters) in Physics with specialisation in Electronics, Telecommunications, and computer architecture in 9 years
-- Completed a degree in 
+- Completed a degree in Music theory, contemporary Harmony of Baroque era
 - Undergraduate thesis: *"Processing of music signals for the automatic lyrics-to-audio alignment through training of acoustic models using the Kaldi toolkit"* — training triphone acoustic models (LDA+MLLT+SAT) on speech and singing voice data for automatic lyrics alignment
-- [FILL IN] Any graduate studies, e.g., Master's in Acoustics / Audio Engineering / Signal Processing?
-- Currently based in [FILL IN — possibly France/Spain based on IMDEA notes, Le Mans University references, and Spanish vocabulary notes]
-- Attended an IMDEA show featuring beamforming, acoustic transducers, and signal processing demos
-- Connected with Le Mans University (references to Melon, Gazengel, Novak) and Iberacústica
-- [FILL IN] Current job/role
+- Did the INternational Master Degree for ELectro Acoustics (IMDEA) in Le Mans University, France.
+- Currently based in Valladolid, Spain.
+- Attended the IMDEA show on 2022 presenting my ANC demondstrator, and subsequent years as an alumni to see the new students projects. The year 2023 featured beamforming, acoustic transducers, and signal processing demos.
+- DId a summer internship at Dynaudio, based in Denmark. Created a live python script to record in real time Video, audio, and vehicle data, in different types of terrain and speeds to better understand the spectrum of noises located inside a vehicle cabin. 
+- Did an internship (Feb to Jul 2023) at Orosound (based in Paris) as part of my master thesis. It was on developing adaptive ANC on earbuds using advanced and low power DSPs.
+- Was hired subsequently by Orosound on September 2023 and stayed there until I got fired by them on December 2024, for not being productive enough. My work involved testing and evaluating acoustic tests in production for the headsets TIlde EVO, developing a real time acoustic ANC simulation in Python, creating a dataset for a wind noise classifier ML model, and tuning the mics gains to better improve the wind noise reduction on the Cleer ARC 3 open earphones
+- Current job/role: R&D Engineer and Project manager at Iberacustica, growing and developing a brand new ANC department.
 
 ## MY WHY (Simon Sinek's Golden Circle)
 
@@ -37,19 +39,20 @@ Every project I work on should trace back to the problem(s) I'm trying to solve.
 ## PROBLEMS (What I see wrong in the world that I want to fix)
 
 - P1: Career anxiety in the age of AI — many engineers don't know what skills to invest in or how to stay relevant
-- P2: Audio/acoustics engineering knowledge is often siloed in academia and not accessible through modern interactive tools
-- P3: [FILL IN: What other problems do you see?]
+- P2: No good truely open source gaming headphones with integrated mic that anyone can make if they have a 3D printer and access to the internet to order parts exists
+- P3: No easy way exists to visually play and understand IIR and FIR filters, and how analog and digital filter correlate.
 
 ## MISSION
 
-- M1: Become a world-class audio/acoustics engineer who leverages AI and software skills to build innovative products, while helping others in the field do the same
-- [FILL IN / REFINE]
+- M1: Become a world-class audio/acoustics engineer who leverages AI and software skills to build innovative products, while helping others in the field do the same.
+- M2: Become a world-class project/product manager with engineering background that has a unique position to motivate and extract a lot of work out of people to build innovative acoustic insulation solutions that promote audiotory health.
 
 ## NARRATIVES (Elevator pitches for who I am)
 
-- N1: I'm an audio/acoustics engineer with deep signal processing knowledge and hands-on software skills in Python, TypeScript/React, and Bash. I've trained acoustic models from scratch using Kaldi and I build interactive educational tools for DSP. In the age of AI, I combine domain expertise with engineering execution.
-- N2: I bridge the gap between acoustic science and software — from training ML models on singing voice data to building interactive web apps that visualize digital filters.
-- [FILL IN / REFINE to match your voice]
+- N1: Acoustics-first engineer — combines deep signal‑processing, measurement, and software skills to design and ship real‑time audio systems (ANC, beamforming, loudspeakers).
+- N2: Builder‑educator — creates interactive, open‑source DSP tools (filter‑playground, demos) and clear documentation that make complex audio concepts accessible.
+- N3: Product‑oriented R&D lead — translates research into manufacturable products, runs experiments, and coordinates teams to deliver user‑focused acoustic solutions.
+- N4: AI‑enabled audio researcher — applies ML and practical DSP to build efficient on‑device models and datasets (wind‑noise classification, adaptive ANC) that solve real‑world problems.
 
 ## SKILLS INVENTORY (What I can market in the AI age)
 
@@ -76,18 +79,18 @@ Every project I work on should trace back to the problem(s) I'm trying to solve.
 ### 🧠 Research & Analytical Skills
 | Skill | Level | Evidence |
 |-------|-------|----------|
-| Machine Learning (Acoustic Models) | Intermediate | Triphone HMM-GMM models, LDA+MLLT+SAT, TDNN-LSTM |
-| Data Analysis & Evaluation | Strong | Evaluation metrics, pandas, statistical analysis |
-| Scientific Writing | [FILL IN] | Thesis writing |
-| Knowledge Management | Strong | Obsidian vault with structured notes, books, daily journals |
+| Machine Learning (Acoustic Models) | Familiar | Triphone HMM-GMM models, LDA+MLLT+SAT, TDNN-LSTM |
+| Data Analysis & Evaluation | Familiar | Evaluation metrics, pandas, statistical analysis |
+| Scientific Writing | Intermediate | Thesis and academic report writing |
+| Knowledge Management | Intermediate | Obsidian vault with structured notes, books, daily journals |
 
 ### 🌍 Languages
 | Language | Level |
 |----------|-------|
 | Greek | Native |
 | English | Fluent |
-| Spanish | Learning |
-| French | [FILL IN — Le Mans University connection] |
+| Spanish | Intermediate |
+| French | Intermediate |
 
 ## GOALS
 
